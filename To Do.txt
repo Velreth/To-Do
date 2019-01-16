@@ -3,17 +3,19 @@ Code Vein
 Flying Witch
 Lisa the Painfull RPG
 Thank you for Smoking
+Into the Spiderverse
+12 Monkeys
 Cabin in the woods
 Lego movie
 Monster
-Tean Titans
+Teen Titans
 Outbreak Company
-Empire earth
+Gridman
 Dead Man's Question
 Danny Phantom
 Invader Zim
 Adventure Time
-Icarus Uprising
+Kid Icarus: Uprising
 Justice Leauge War
 Batman Bad Blood
 Batman vs Robin
@@ -43,7 +45,6 @@ The Big Lebowski
 Budapest hotel
 Ori 2
 Planet With
-Angel Cop﻿
 Metroid Fusion
 Breath of Fire 3/4
 ERASED
@@ -53,7 +54,6 @@ Blassreiter
 Gargantia on the Verdurous Planet
 Chaos Dragon
 Durarara!!
-Eraserhead
 Flight of Dragons
 Phoenix Point
 There Will be Blood
@@ -108,34 +108,34 @@ The Venture Bros.
 X-Files
 The Dresden Files
 Gravity Falls
-Jack Long
+Jack Long American Dragon
 Johnny Bravo
 Pop Team Epic
 Bojack Horseman
 The Devil is a Part-Timer
 Maoyuu Maou Yuusha
+Demi-chan wa Kataritai
+Hozuki no Reitetsu
+Re:Creators
+Darling in the FranXX
 Wonderful 101
 American Psycho
-BlazBlu
-InuYasha
 Soul Eater
-made in Abyss
+Made in Abyss
 Kemeko Deluxe!
 Boku No Hero Academia
 Blue Exorcist
 Wizard's First Rule
 Crisis on Two Earths
-Assassination Classroom
-Antichrist
-A Serbian Film
-Cannibal Holocaust
-The Exorcist (OG)
+Assassination Classroom (Anime)
 Pulp Fiction
 Clockwork Orange
 Big Hero 6
-Kid Icarus: Uprising
-Futurama
 Paradise lost
+Mythbusters
+Shortbus
+The Holy Mountain
+Cloverworks
 Senyuu
 Blend S
 Elf-san wa Yaserarenai.
@@ -150,8 +150,8 @@ Gabriel Dropout
 Sayonara Zetsubou Sensei
 Fullmetal Alchemist: Brotherhood
 Parasyte the Maxim
-Noragami
 IT crowd
+Noragami
 Psycho-Pass
 Free!
 Uta No Prince Sama
@@ -160,7 +160,7 @@ Bakumatsu Rock
 Akame Ga Kill
 Lovestage
 K
-Eragon
+Eragon (reread)
 Shokugeki no Soma
 Tonari No Kaibutsu-kun
 Diabolik Lovers.
@@ -177,7 +177,7 @@ Kuroshitsuji
 Cuticle Tantei Inaba
 Persona
 Starship
-That Time I got Reincarnated as a Slime
+That Time I got Reincarnated as a Slime (Anime)
 Magi: The Labyrinth of Magic
 Little Witch Academia
 Haganai: I Don't Have Many Friends
@@ -185,10 +185,7 @@ Haganai Next: I Don't Have Many Friends
 G-DRAGON
 Space Dandy
 DB Super
-Aqua teen hunger force
-Legion
 Blood-C: The Last Dark
-There Will Be Blood
 Lucky Star OVA
 Puella Magi Madoka Magica the Movie 2: Eternal
 Katte ni Kaizou
@@ -200,7 +197,6 @@ Puella Magi Madoka Magica the Movie: Rebellion
 Gargantia on the Verdurous Planet	
 Symphogear
 Elfen Lied
-Fullmetal Alchemist the Movie: Conqueror of Shamballa
 Katawa Shoujo
 Accel World
 Tiger & Bunny
@@ -213,29 +209,25 @@ A Certain Magical Index Movie: Miracle of Endymion
 Lagrange: The Flower of Rin-ne
 Log Horizon
 The Irregular at Magic High School
-Guilty Crown
 Angel Beats
 AVGN
 Being John Malkovich
 Snatch
 OFF
 The Stanford Prison (Film)
-Floraverse
 Yu Yu Hakusho
 Hajime No Ippo
 Hunter X Hunter
 Heavens Lost Property
-Drakengard 3
 Preacher
 Kantai Collection: KanColle
 Ao no Exorcist
 The Usual Suspects
-Konosuba
-The Ren & Stimpy Show
+Konosuba (Anime)
 About Time
 The Librarians
 Westworld
-Blcak Mirror
+Black Mirror
 Kekkai Sensen
 Darker than Black
 Black Butler
@@ -262,16 +254,19 @@ Owari no Seraph
 Antique Bakery
 Eva
 Pacific Rim
-HP Lovecraft
+HP Lovecraft (books)
 Wander over Yonder
 Groundhog Day
-Hellsing
 Pirates of Silicon Valley
 The Seven Deadly Sins
 Bastard
 Scrapheap Challenge
 Punch Line
 Is it wrong to pick up girls in a dungeon
+Devilman Crybaby
+Wizard of Earthsea
+Magicians
+Disc World
 Seraph of the End
 Blood Blockade Battlefield
 Plastic Memories
@@ -279,11 +274,9 @@ Youjo Senki
 Brave Witches / Strike Witches
 Symphogear
 Galant
-Tenacious D
 Watamote
-Silent Hill
 Mad Max
 inception
-Alien 1979
+Alien (series)
 Death Stranding
 Grimoire of Zero
